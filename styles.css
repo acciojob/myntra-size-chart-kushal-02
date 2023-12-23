@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+
+table, th, td {
+	
+	border : 1px solid black;
+	border-collapse : collapse;
+	font-family: "Times New Roman", Times, serif;
+	
+}
+.color1{
+	background-color : #C0504D;
+	color : white;
+}
+.color2{
+	background-color : #DA9694;
+	color : white;
+}
+.color3{
+	background-color : #F2DCDB;
+	
+}
+.color4{
+	background-color : #D9D9D9;
+}
+.heading{
+	text-align : left;
+}
+td{
+	text-align : right;
+	
+}
